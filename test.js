@@ -1,7 +1,7 @@
 'use strict'
 
 var test = require('tape')
-var f = require('.')
+var f = require('./')
 
 test('calculates correctly', function (assert) {
   assert.plan(6)
