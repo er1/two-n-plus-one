@@ -1,0 +1,25 @@
+{
+  "name": "two-n-plus-one",
+  "version": "0.0.1",
+  "description": "Calculate 2n + 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/er1/two-n-plus-one.git"
+  },
+  "author": "Eric Chan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/er1/two-n-plus-one/issues"
+  },
+  "homepage": "https://github.com/er1/two-n-plus-one#readme",
+  "bin": {
+    "two-n-plus-one": "./cli.js"
+  },
+  "devDependencies": {
+    "tape": "^5.0.1"
+  }
+}
